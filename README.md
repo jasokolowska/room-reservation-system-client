@@ -1,2 +1,3 @@
 # room-reservation-system-client
-Frontend part for Room Reservation System
+
+Frontend part of the Room Reservation System
